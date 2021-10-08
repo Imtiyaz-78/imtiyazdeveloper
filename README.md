@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Imtiyaz</h1>
-<h3 align="center">I am passionate Love for Flutter and web developer</h3>
+<h3 align="center">I am passionate Love for Coder and Adroid  & Web Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiyazdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazdeveloper" /> </p>
 
